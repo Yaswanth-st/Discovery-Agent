@@ -305,5 +305,5 @@ Agent 3: Discovery Agent — Levels 1, 2, and 3.
 | Deliverable | Link |
 |-------------|------|
 | Code | [github.com/Yaswanth-st/Discovery-Agent](https://github.com/Yaswanth-st/Discovery-Agent) |
-| Video | *(add your video URL)* |
-| Write-up | *(add your write-up URL)* |
+| Video | (https://drive.google.com/file/d/1aGNw9LjUe4FT-R7VoVNlbAjPT4dapPtb/view?usp=sharing) |
+| Write-up | (https://drive.google.com/file/d/1ep_nTuEQnvDYJ1JLT5a-Y4zwBD7G5ORD/view?usp=sharing) |
